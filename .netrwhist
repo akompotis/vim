@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/akompotis/.oh-my-zsh/plugins/mercurial'
+let g:netrw_dirhist_2='/Applications/Splunk/etc/apps/launcher/README'
+let g:netrw_dirhist_3='/Users/akompotis/Perforce/solutions/mint/mainline/package'
+let g:netrw_dirhist_4='/Users/akompotis/Perforce/solutions/mint/mainline/package/default'
+let g:netrw_dirhist_5='/Users/akompotis/Perforce/solutions/mint/mainline/package'
+let g:netrw_dirhist_6='/Applications/Splunk/etc/apps/Splunk_TA_mint'
+let g:netrw_dirhist_7='/Users/akompotis/ssh_back'
+let g:netrw_dirhist_8='/Users/akompotis/source/cds-datagen2/Scenarios/Bank_Package'
+let g:netrw_dirhist_9='/Applications/Splunk/etc/apps/splunk_app_mint'
